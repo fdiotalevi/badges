@@ -5,7 +5,10 @@
 
 [![security status](http://qa.meterian.com/badge/gh/mteodori/jira-git-plugin/security)](http://qa.meterian.com/report/gh/mteodori/jira-git-plugin)  [![defect status](http://qa.meterian.com/badge/gh/mteodori/jira-git-plugin/defect)](http://qa.meterian.com/report/gh/mteodori/jira-git-plugin) Jira Git Plugin
 
-[![security status](http://qa.meterian.com/badge/gh/johnsblatter/owner/security)](http://qa.meterian.com/report/gh/johnsblatter/owner)  [![defect status](http://qa.meterian.com/badge/gh/mteodori/jira-git-plugin/defect)](http://qa.meterian.com/report/gh/mteodori/jira-git-plugin)  johnsblatter/owner
+[![security status](http://qa.meterian.com/badge/gh/johnsblatter/owner/security)](http://qa.meterian.com/report/gh/johnsblatter/owner)  [![defect status](http://qa.meterian.com/badge/gh/johnsblatter/owner/defect)](http://qa.meterian.com/report/gh/johnsblatter/owner)  johnsblatter/owner
+
+[![security status](http://qa.meterian.com/badge/gh/mteodori/generator-jhipster/security)](http://qa.meterian.com/report/gh/mteodori/generator-jhipster)  [![defect status](http://qa.meterian.com/badge/gh/mteodori/generator-jhipster/defect)](http://qa.meterian.com/report/gh/mteodori/generator-jhipster) generator-jhipster
+
 
 
 
