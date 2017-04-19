@@ -9,6 +9,11 @@
 
 [![security status](http://qa.meterian.com/badge/gh/mteodori/generator-jhipster/security)](http://qa.meterian.com/report/gh/mteodori/generator-jhipster)  [![defect status](http://qa.meterian.com/badge/gh/mteodori/generator-jhipster/defect)](http://qa.meterian.com/report/gh/mteodori/generator-jhipster) generator-jhipster
 
+[![security status](http://qa.meterian.com/badge/gh/mteodori/liquibase/security)](http://qa.meterian.com/report/gh/mteodori/liquibase)  [![defect status](http://qa.meterian.com/badge/gh/mteodori/liquibase/defect)](http://qa.meterian.com/report/gh/mteodori/liquibase)  liquibase
+
+
+
+
 
 
 
