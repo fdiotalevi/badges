@@ -1,9 +1,9 @@
 # badges
 
 
-[![security status](http://qa.meterian.com/badge/gh/ReactiveX/RxJava/security)](http://qa.meterian.com/report/gh/ReactiveX/RxJava)  [![defect status](http://qa.meterian.com/badge/gh/ReactiveX/RxJava/defect)](http://qa.meterian.com/report/gh/ReactiveX/RxJava)  RxJava
+[![security status](https://qa.meterian.com/badge/gh/ReactiveX/RxJava/security)](http://qa.meterian.com/report/gh/ReactiveX/RxJava)  [![defect status](https://qa.meterian.com/badge/gh/ReactiveX/RxJava/defect)](http://qa.meterian.com/report/gh/ReactiveX/RxJava)  RxJava
 
-[![security status](http://qa.meterian.com/badge/gh/elastic/elasticsearch/security)](http://qa.meterian.com/report/gh/elastic/elasticsearch)  [![defect status](http://qa.meterian.com/badge/gh/elastic/elasticsearch/defect)](http://qa.meterian.com/report/gh/elastic/elasticsearch)  Elasticsearch
+[![security status](https://qa.meterian.com/badge/gh/elastic/elasticsearch/security)](http://qa.meterian.com/report/gh/elastic/elasticsearch)  [![defect status](https://qa.meterian.com/badge/gh/elastic/elasticsearch/defect)](http://qa.meterian.com/report/gh/elastic/elasticsearch)  Elasticsearch
 
 [![security status](http://qa.meterian.com/badge/gh/alibaba/fastjson/security)](http://qa.meterian.com/report/gh/alibaba/fastjson)  [![defect status](http://qa.meterian.com/badge/gh/alibaba/fastjson/defect)](http://qa.meterian.com/report/gh/alibaba/fastjson)  Fastjson
 
