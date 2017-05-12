@@ -1,4 +1,8 @@
 # badges
+
+[![security status](https://www.meterian.com/badge/gh/stapler/stapler/security)](https://www.meterian.com/report/gh/stapler/stapler)
+[![stability status](https://www.meterian.com/badge/gh/stapler/stapler/stability)](https://www.meterian.com/report/gh/stapler/stapler) Stapler
+
 [![security status](https://www.meterian.com/badge/gh/kohsuke/jenkins/security)](https://www.meterian.com/report/gh/kohsuke/jenkins)
 [![stability status](https://www.meterian.com/badge/gh/kohsuke/jenkins/stability)](https://www.meterian.com/report/gh/kohsuke/jenkins) Jenkins
 
