@@ -1,5 +1,7 @@
 # badges
 
+change
+
 [![security status](https://www.meterian.com/badge/gh/stapler/stapler/security)](https://www.meterian.com/report/gh/stapler/stapler)
 [![stability status](https://www.meterian.com/badge/gh/stapler/stapler/stability)](https://www.meterian.com/report/gh/stapler/stapler) Stapler
 
