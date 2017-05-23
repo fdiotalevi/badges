@@ -10,7 +10,6 @@
 
 [![security status](https://qa.meterian.com/badge/gh/sschober/netty-example/security)](http://qa.meterian.com/report/gh/sschober/netty-example) [![defect status](https://qa.meterian.com/badge/gh/sschober/netty-example/stability)](http://qa.meterian.com/report/gh/sschober/netty-example)  Netty Example
 
-[![security status](https://qa.meterian.com/badge/gh/johnsblatter/owner/security)](http://qa.meterian.com/report/gh/johnsblatter/owner)  [![defect status](https://qa.meterian.com/badge/gh/johnsblatter/owner/stability)](http://qa.meterian.com/report/gh/johnsblatter/owner)  johnsblatter/owner
 
 
 
